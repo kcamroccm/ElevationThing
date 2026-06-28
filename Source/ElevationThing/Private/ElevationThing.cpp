@@ -1,3 +1,5 @@
+//  Copyright (c) Tim McCormack. 
+//  Licensed under the MIT License.
 #include "ElevationThing.h"
 
 #define LOCTEXT_NAMESPACE "FElevationThingModule"

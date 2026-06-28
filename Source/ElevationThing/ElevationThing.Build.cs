@@ -1,3 +1,6 @@
+//  Copyright (c) Tim McCormack. 
+//  Licensed under the MIT License.
+
 using UnrealBuildTool;
 
 public class ElevationThing : ModuleRules
