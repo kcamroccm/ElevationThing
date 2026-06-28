@@ -1,0 +1,24 @@
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+*.suo
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.VC.db
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+*.o
+*.obj
+
+# Mac and Linux
+# Built data for maps (optional, often large)
+*_BuiltData.uasset
+
